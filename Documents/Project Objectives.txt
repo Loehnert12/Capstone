@@ -1,0 +1,22 @@
+
+"Does a college football team have a better chance at winning a bowl game 
+with more or less total fans in the stadium."
+
+Sort the main data sheet into the columns that are needed.
+
+Determine any null values for attendance.
+
+Find the average bowl game attendance.
+
+Set null values to average attendance.
+
+Sort bowl game appearnaces from 1980-2022.
+
+Determine the top 20 teams since 1980.
+
+Compare the top 20 teams wins and attendance to their losses and the attendance.
+
+Create a graph showing the top 20 teams and the average attendance when they win vs 
+when they have lost.
+
+Build a case on if certain teams need more or less fan attendance.
