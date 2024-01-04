@@ -32,24 +32,24 @@ The data source that I found for this was from Kaggle.com that you can access [h
 ## Analysis
 ### Note: Please visit my [Tableau Account](https://public.tableau.com/app/profile/daniel.loehnert/viz/CapstoneFinal_17025168054460/Story1) to interact woth the graphs from this project.
 - After narrowing down the top 20 teams with the most amount of wins, I was able to create a chart to visualize the fan attendance when a team won, and when they lost. You can see in the below graph that a mojority of the top 20 teams have a higher fan average when they win a bowl game. However, there are a handful of teams that have a higher fan average when they have lost games.
-![Alt text](<Bar Graph.PNG>)
+![<Bar Graph.PNG>](<Project/Images/Bar Graph.PNG>)
 - You can see the plot chart below shows some outlier teams who have won the most games, but do not have the average fan attendance that everyone else does. And we have some othe routliers that have the highest fan average, but not as many wins as some others.
-![Alt text](<Plot Chart.PNG>)
+![!\[Alt text\](<Plot Chart.PNG>)](<Project/Images/Plot Chart.PNG>)
 - This tree map below is a great representation of how many games a team has won vs lost and the average fan attendance by color.
-![Alt text](<Tree Map.PNG>)
+![!\[Alt text\](<Tree Map.PNG>)](<Project/Images/Tree Map.PNG>)
 ## Conclusion
 The data collected, cleaned, narrowed down, and visually represented shows that a majority of college football teams win more games with a higher average fan attendance. There are some teams that have a higher fan attendance when they lose as well. Everyone knows that there are many other factors that play into whether a football team wins or loses, but this data shows specific teams that perform well in front of more people. 
 ## Next Steps 
 There are a lot of other factors that come into play when looking at how a team performs in bowl games. The next steps in this project could be working on narrowing down the location of the bowl games compared to the winning teams home field. This could correlate a lot with how well fans travel for that team. That information could come in handy for colleges looking at which bowl games they get invited to and how well they have performed in the past when traveling that distance.
 ## Repository Structure
 ├── Documents
-│   ├── Capstone_Project.ipynb
-│   ├── Project Objectives.txt
-│   ├── README.md
+   ├── Capstone_Project.ipynb
+   ├── Project Objectives.txt
+   ├── README.md
 ├── Project
-|   ├── CSV Files
-|   ├── Excel Files
-|   ├── Images
-|   ├── Python Files
-|   ├── SQL Files
+   ├── CSV Files
+   ├── Excel Files
+   ├── Images
+   ├── Python Files
+   ├── SQL Files
 ├── README.md
