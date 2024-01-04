@@ -39,4 +39,17 @@ The data source that I found for this was from Kaggle.com that you can access [h
 ![Alt text](<Tree Map.PNG>)
 ## Conclusion
 The data collected, cleaned, narrowed down, and visually represented shows that a majority of college football teams win more games with a higher average fan attendance. There are some teams that have a higher fan attendance when they lose as well. Everyone knows that there are many other factors that play into whether a football team wins or loses, but this data shows specific teams that perform well in front of more people. 
-#### Next Steps
+## Next Steps 
+There are a lot of other factors that come into play when looking at how a team performs in bowl games. The next steps in this project could be working on narrowing down the location of the bowl games compared to the winning teams home field. This could correlate a lot with how well fans travel for that team. That information could come in handy for colleges looking at which bowl games they get invited to and how well they have performed in the past when traveling that distance.
+## Repository Structure
+├── Documents
+│   ├── Capstone_Project.ipynb
+│   ├── Project Objectives.txt
+│   ├── README.md
+├── Project
+|   ├── CSV Files
+|   ├── Excel Files
+|   ├── Images
+|   ├── Python Files
+|   ├── SQL Files
+├── README.md
